@@ -7680,7 +7680,7 @@
 		(descr "15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
 		(tags "15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm")
 		(property "Reference" "J12"
-			(at -1.9 -3.72 180)
+			(at -1.9 -3.72 0)
 			(layer "F.SilkS")
 			(uuid "aa2c530e-6a21-48c3-8400-edaf7f1c34ab")
 			(effects
@@ -7730,7 +7730,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b49d2283-faae-4ab7-8811-781bc9345640")
@@ -8290,15 +8290,15 @@
 			(uuid "335f5ef6-24bd-4071-a932-a593d08341b3")
 		)
 		(embedded_fonts no)
-		(model ":WIN_3DMODEL_DIR:Connector_DE15_Female_VGA_Short.step"
+		(model "${WIN_3DMODEL_DIR}/Connector_EDAC_632-015-266-032.step"
 			(offset
-				(xyz -4.3 -7.4 6.25)
+				(xyz -16.85 -6.65 6.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 90 180 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -13112,22 +13112,8 @@
 			(justify left)
 		)
 	)
-	(gr_text "https://github.com/windsorschmidt/md2va3-rgbs"
-		(at 152.8 121.4 0)
-		(layer "F.SilkS")
-		(uuid "62515ebe-c183-49af-813f-0c84789b4d14")
-		(effects
-			(font
-				(size 1.32 1.1)
-				(thickness 0.22)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left)
-		)
-	)
 	(gr_text "Rev.${REVISION}"
-		(at 156.7 118 0)
+		(at 152.1 121.4 0)
 		(layer "F.SilkS")
 		(uuid "88413650-66ab-42f3-a5c6-d2437bae6fd7")
 		(effects
@@ -13236,6 +13222,20 @@
 				(italic yes)
 			)
 			(justify left)
+		)
+	)
+	(gr_text "https://github.com/windsorschmidt/md2va3-rgbs"
+		(at 195.9 121.3 0)
+		(layer "B.SilkS")
+		(uuid "62515ebe-c183-49af-813f-0c84789b4d14")
+		(effects
+			(font
+				(size 1.32 1.1)
+				(thickness 0.22)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left mirror)
 		)
 	)
 	(gr_text "Copyright Windsor Schmidt 2025.\n\nThis source describes Open Hardware and is licensed under the CERN-OHL-S v2.\nYou may redistribute and modify this source and make products using it\nunder the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).\n\nThis source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,\nINCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable\nconditions.\n\nSource location: https://github.com/windsorschmidt/md2va3-rgbs\n"
