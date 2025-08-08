@@ -1,0 +1,28 @@
+* About
+
+RGBS video and audio output board for Sega Genesis 2 VA3.
+
+Based on the "Triple Bypass" (3BP for short) circuit originally from
+René Richard.  Unlike the TBP which can be configured to work with
+several types of Genesis consoles, this board is designed specifically
+for the Genesis 2 VA3.
+
+* Features
+
+- Active buffer/amplifiers for audio and video
+- Mounts inside console beside main PCB using existing mounting points
+- RGBS output on DE-15 (VGA style) connector
+- Audio output on 3.5mm phono jack
+
+| [[render_top.png?raw=true]] | [[render_bottom.png?raw=true]] |
+
+* References
+
+- https://github.com/db-electronics/triple-bypass-kicad
+- https://github.com/tianfeng33/triple-bypass-Version-2
+
+* License
+
+Circuit schematic and PCB layout are licensed under CERN-OHL-S v2.
+
+See [[LICENSE.txt]].
