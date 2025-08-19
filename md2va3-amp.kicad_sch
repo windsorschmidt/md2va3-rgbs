@@ -6456,7 +6456,7 @@
 			(uuid "e70a4b1a-261b-4b10-95d6-118e7db8f5b1")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C8")
 					(unit 1)
@@ -6551,7 +6551,7 @@
 			(uuid "24481106-70dc-4985-982b-c304cf009c90")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN3")
 					(unit 4)
@@ -6619,7 +6619,7 @@
 			(uuid "a1f19c67-0040-4860-9290-e21609b1affe")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C9")
 					(unit 1)
@@ -6685,7 +6685,7 @@
 			(uuid "a1a38c9e-6e0c-4f81-a27c-b602780a4e42")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR03")
 					(unit 1)
@@ -6753,7 +6753,7 @@
 			(uuid "97c98b3a-6abf-485a-8c27-bbc8869ee2b3")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR023")
 					(unit 1)
@@ -6820,7 +6820,7 @@
 			(uuid "683cba4e-dc8f-4fa6-af63-a9ef616dc85e")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#FLG01")
 					(unit 1)
@@ -6893,7 +6893,7 @@
 			(uuid "14f83015-1414-49ac-b268-2231b04c8e47")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR015")
 					(unit 1)
@@ -6987,7 +6987,7 @@
 			(uuid "b4fc12f9-7544-49ea-a67f-23b9a7708d7a")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN4")
 					(unit 4)
@@ -7092,7 +7092,7 @@
 			(uuid "32abaeec-9762-4f3f-8b5c-ba5ca55dd710")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "U1")
 					(unit 1)
@@ -7157,7 +7157,7 @@
 			(uuid "594a29bf-d3f8-42b0-ba01-1bd2a80570ae")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J7")
 					(unit 1)
@@ -7251,7 +7251,7 @@
 			(uuid "9b0ad333-5782-40e2-99f8-40e3026c29f7")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN4")
 					(unit 1)
@@ -7319,7 +7319,7 @@
 			(uuid "f29f0106-81f9-4e18-936e-4943835aaa59")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C5")
 					(unit 1)
@@ -7384,7 +7384,7 @@
 			(uuid "dfb02490-e555-4ef1-9fc1-b30ee47cafcb")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J5")
 					(unit 1)
@@ -7452,7 +7452,7 @@
 			(uuid "1fe31653-f3ef-4ed7-b1bc-e7e8229568f4")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C12")
 					(unit 1)
@@ -7527,7 +7527,7 @@
 			(uuid "3a9ae8b8-3e89-482e-a83b-0cb3345ac999")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "TP2")
 					(unit 1)
@@ -7621,7 +7621,7 @@
 			(uuid "3e8ffea2-4877-4426-8e65-cfb130788e94")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN4")
 					(unit 2)
@@ -7686,7 +7686,7 @@
 			(uuid "066da30f-5ef9-4818-986f-82f4e61b9992")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J8")
 					(unit 1)
@@ -7764,7 +7764,7 @@
 			(uuid "5569f4bf-98c4-4787-bcea-39031b8002e2")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C1")
 					(unit 1)
@@ -7858,7 +7858,7 @@
 			(uuid "0049c8e0-0d22-4cd7-ad0b-00a8407a2b1f")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN4")
 					(unit 3)
@@ -7928,7 +7928,7 @@
 			(uuid "60290d8b-90df-4848-9009-a0e2cb6c4f5d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "JP1")
 					(unit 1)
@@ -7996,7 +7996,7 @@
 			(uuid "e942987e-e2c1-4e64-96d3-a8b63c212707")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C3")
 					(unit 1)
@@ -8063,7 +8063,7 @@
 			(uuid "d6156a04-5632-41f4-b5df-ced8f0d2f539")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR014")
 					(unit 1)
@@ -8158,7 +8158,7 @@
 			(uuid "51b53784-93af-499d-ab23-88692fc662d1")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN2")
 					(unit 4)
@@ -8252,7 +8252,7 @@
 			(uuid "f2c8d440-2208-4eb8-81b9-725031e4136d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN5")
 					(unit 3)
@@ -8327,7 +8327,7 @@
 			(uuid "d28d2a45-2ab6-4b18-aa2a-e0a07816d352")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C13")
 					(unit 1)
@@ -8422,7 +8422,7 @@
 			(uuid "6958df1f-075b-4cc4-bb89-c7b8ba44fba1")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN3")
 					(unit 1)
@@ -8490,7 +8490,7 @@
 			(uuid "184cc273-0246-4b10-9b5e-efcf27bafdae")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR024")
 					(unit 1)
@@ -8558,7 +8558,7 @@
 			(uuid "e48993a2-74cf-4c0c-ba40-d53b244f3aa9")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C2")
 					(unit 1)
@@ -8625,7 +8625,7 @@
 			(uuid "4e3856dd-c9cb-4a8d-bbc2-9840d206f8bd")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#FLG03")
 					(unit 1)
@@ -8706,7 +8706,7 @@
 			(uuid "92b78791-b18d-406d-8a62-60410d63a86a")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C15")
 					(unit 1)
@@ -8773,7 +8773,7 @@
 			(uuid "b3169969-9bd8-4181-830b-dfeae38e057d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR021")
 					(unit 1)
@@ -8844,7 +8844,7 @@
 			(uuid "b0622521-1df7-4f33-8e58-e462d4da2d60")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "R2")
 					(unit 1)
@@ -8911,7 +8911,7 @@
 			(uuid "df2d1a81-63ac-40e1-8c46-5bdac40218c7")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR01")
 					(unit 1)
@@ -9006,7 +9006,7 @@
 			(uuid "886eae1e-109e-4bb4-aea1-0c5c91adba79")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN2")
 					(unit 2)
@@ -9100,7 +9100,7 @@
 			(uuid "a7b3e7a1-f34a-46cc-8cf2-55ce0c635b17")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN5")
 					(unit 4)
@@ -9166,7 +9166,7 @@
 			(uuid "98a9ec19-8dc3-4434-ab96-2ce6e8a0e16b")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR026")
 					(unit 1)
@@ -9263,7 +9263,7 @@
 			(uuid "d201d1ab-7e04-42d8-a1e3-ab5c2835886d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "U2")
 					(unit 3)
@@ -9330,7 +9330,7 @@
 			(uuid "581d2bff-02b8-4f41-84f7-32ebd418a0b4")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR019")
 					(unit 1)
@@ -9395,7 +9395,7 @@
 			(uuid "4201d4fc-af18-4b4f-800c-94bb55911738")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J2")
 					(unit 1)
@@ -9491,7 +9491,7 @@
 			(uuid "708342d8-4ef6-424f-81a7-5f7967dfe45d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN1")
 					(unit 4)
@@ -9562,7 +9562,7 @@
 			)
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "MNT2")
 					(unit 1)
@@ -9630,7 +9630,7 @@
 			(uuid "161ec7ae-ff4c-4793-8895-78ccbdcfc365")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "R5")
 					(unit 1)
@@ -9714,7 +9714,7 @@
 			(uuid "be47a1f1-de70-4acd-8f86-7b3a7c73ebe3")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J11")
 					(unit 1)
@@ -9788,7 +9788,7 @@
 			(uuid "56420ff1-562e-4c9c-9d70-7d3a193df038")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "R4")
 					(unit 1)
@@ -9881,7 +9881,7 @@
 			(uuid "72759a8d-d814-4ccd-a36a-60d45c8646d3")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN5")
 					(unit 2)
@@ -9948,7 +9948,7 @@
 			(uuid "e5447131-3f19-4d7d-86ad-4b7b8797b325")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR017")
 					(unit 1)
@@ -10016,7 +10016,7 @@
 			(uuid "5e1b014d-09af-4175-b065-e2918e8ba9e2")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "R3")
 					(unit 1)
@@ -10111,7 +10111,7 @@
 			(uuid "a3c0fbcd-7747-483a-a78d-905ff6b4746e")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN2")
 					(unit 3)
@@ -10176,7 +10176,7 @@
 			(uuid "09d4a3dd-370b-4ec1-aa31-22d37a04916b")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J4")
 					(unit 1)
@@ -10241,7 +10241,7 @@
 			(uuid "918cedff-4156-4a13-b172-c29021a9b674")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J3")
 					(unit 1)
@@ -10359,7 +10359,7 @@
 			(uuid "f1bd769a-31db-4cd6-95ef-17b37528a796")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J12")
 					(unit 1)
@@ -10443,7 +10443,7 @@
 			(uuid "757ff3f2-06d8-45bb-8c20-2b7375f79ae8")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "R1")
 					(unit 1)
@@ -10513,7 +10513,7 @@
 			(uuid "b718aec0-a5bb-4391-8c6a-4709ade01219")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "JP2")
 					(unit 1)
@@ -10584,7 +10584,7 @@
 			)
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "MNT1")
 					(unit 1)
@@ -10662,7 +10662,7 @@
 			(uuid "1da8d5d8-abb7-44fd-968a-7fd4416da26d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C10")
 					(unit 1)
@@ -10729,7 +10729,7 @@
 			(uuid "05a79b47-5608-4824-a43e-7bed00de875a")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#FLG02")
 					(unit 1)
@@ -10802,7 +10802,7 @@
 			(uuid "45e538ba-cb4b-43a5-85e6-166d10c6b614")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR025")
 					(unit 1)
@@ -10905,7 +10905,7 @@
 			(uuid "9b730de6-1647-4d31-9d8b-23659335691f")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN1")
 					(unit 1)
@@ -11000,7 +11000,7 @@
 			(uuid "9b730de6-1647-4d31-9d8b-236593356920")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN2")
 					(unit 1)
@@ -11067,7 +11067,7 @@
 			(uuid "6fe33e59-30ed-4b96-8a83-7531ffbc4170")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR012")
 					(unit 1)
@@ -11135,7 +11135,7 @@
 			(uuid "8b8b2cff-3f29-40d3-9a96-f6f25a96fa2c")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C7")
 					(unit 1)
@@ -11202,7 +11202,7 @@
 			(uuid "e1c3bbac-fd17-4bd6-bfcd-d0171adc3a6c")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR08")
 					(unit 1)
@@ -11269,7 +11269,7 @@
 			(uuid "e0dae076-9040-4fc3-996b-b047703d9901")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR027")
 					(unit 1)
@@ -11370,7 +11370,7 @@
 			(uuid "e7a4d97f-a876-4cf2-892d-c5a3e624b1a7")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN3")
 					(unit 2)
@@ -11464,7 +11464,7 @@
 			(uuid "493d7aab-daf8-4b87-a152-d2af10118a1a")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN5")
 					(unit 1)
@@ -11531,7 +11531,7 @@
 			(uuid "d327c887-d806-477a-81b5-467a4f7da162")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR016")
 					(unit 1)
@@ -11596,7 +11596,7 @@
 			(uuid "b9876452-d36b-494c-a7a1-4a5cebe7c8ed")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR028")
 					(unit 1)
@@ -11660,7 +11660,7 @@
 			(uuid "feaab9ef-69aa-4019-8959-817c56123deb")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J9")
 					(unit 1)
@@ -11740,7 +11740,7 @@
 			(uuid "82d20348-f1ee-4290-aacd-6d454361ee41")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C19")
 					(unit 1)
@@ -11808,7 +11808,7 @@
 			(uuid "d82bd94e-cb4f-4b7d-81ef-97d57fdf843d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C4")
 					(unit 1)
@@ -11876,7 +11876,7 @@
 			(uuid "728b15c7-9024-4a03-b50a-39eddfb63f28")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C11")
 					(unit 1)
@@ -11944,7 +11944,7 @@
 			(uuid "9b9f85ce-3490-45df-b3d9-53863e8532c3")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR030")
 					(unit 1)
@@ -12011,7 +12011,7 @@
 			(uuid "8ff9c279-e971-410d-a381-05f7952c8fbe")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR013")
 					(unit 1)
@@ -12081,7 +12081,7 @@
 			(uuid "bdd07c76-4f0e-4469-af50-a848061c2e97")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C14")
 					(unit 1)
@@ -12148,7 +12148,7 @@
 			(uuid "605541d5-e10c-4760-b9e5-c70597005d50")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR020")
 					(unit 1)
@@ -12213,7 +12213,7 @@
 			(uuid "0f73b6d6-5f2b-48ae-890b-87f0ce36b4e9")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR010")
 					(unit 1)
@@ -12314,7 +12314,7 @@
 			(uuid "14217a82-6b7f-425b-846e-246afcd9dcae")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "U2")
 					(unit 1)
@@ -12393,7 +12393,7 @@
 			(uuid "1556ee61-dc87-41e8-ad99-c0adf48ea842")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C17")
 					(unit 1)
@@ -12488,7 +12488,7 @@
 			(uuid "39eaa9d0-6b8d-43d0-8d8a-4e8254707d57")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "U2")
 					(unit 2)
@@ -12555,7 +12555,7 @@
 			(uuid "4b0e943b-a37b-43de-8e62-f7bf5ffcf1d9")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR022")
 					(unit 1)
@@ -12630,7 +12630,7 @@
 			(uuid "29bca513-99f2-4014-ba53-dbbe8f9750bd")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C16")
 					(unit 1)
@@ -12697,7 +12697,7 @@
 			(uuid "dba9d824-5c28-4749-9e02-9376a5900fa2")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR011")
 					(unit 1)
@@ -12772,7 +12772,7 @@
 			(uuid "667b86e0-fc78-4dd0-b28e-eba5a2d5a9b1")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "TP1")
 					(unit 1)
@@ -12866,7 +12866,7 @@
 			(uuid "a3c0fbcd-7747-483a-a78d-905ff6b4746f")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN1")
 					(unit 3)
@@ -12937,7 +12937,7 @@
 			(uuid "958c1a0f-4af9-483b-a1b9-2cd865074b3d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C18")
 					(unit 1)
@@ -13002,7 +13002,7 @@
 			(uuid "89577c94-e151-4a8b-8655-38c68bcb647d")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J10")
 					(unit 1)
@@ -13069,7 +13069,7 @@
 			(uuid "b3ba9a4a-f9d6-4300-afba-8d50c22dac74")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR09")
 					(unit 1)
@@ -13136,7 +13136,7 @@
 			(uuid "baf86fb4-c8a2-463e-b892-734e54e58e9a")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR04")
 					(unit 1)
@@ -13203,7 +13203,7 @@
 			(uuid "021cdd31-7a30-45ec-85dc-0f4115bc2716")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR06")
 					(unit 1)
@@ -13271,7 +13271,7 @@
 			(uuid "3a9f7c12-6d35-4f37-bcb4-1408968eff2c")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C6")
 					(unit 1)
@@ -13366,7 +13366,7 @@
 			(uuid "a7d11332-7875-4048-81c3-df0395716480")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN3")
 					(unit 3)
@@ -13434,7 +13434,7 @@
 			(uuid "e7ec9b9c-c5f4-4677-a1a3-da30b01229b1")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR029")
 					(unit 1)
@@ -13530,7 +13530,7 @@
 			(uuid "886eae1e-109e-4bb4-aea1-0c5c91adba7a")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "RN1")
 					(unit 2)
@@ -13597,7 +13597,7 @@
 			(uuid "4577b089-b6ca-4b59-8aea-e9115daf2147")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR018")
 					(unit 1)
@@ -13662,7 +13662,7 @@
 			(uuid "bd911166-a5a5-41c6-8fea-1134e837f4d8")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J1")
 					(unit 1)
@@ -13728,7 +13728,7 @@
 			(uuid "4931019b-de41-47e0-91b6-767b562e2977")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR031")
 					(unit 1)
@@ -13792,7 +13792,7 @@
 			(uuid "b2f88aec-c9bd-461b-9f13-91242690cbf7")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "J6")
 					(unit 1)
@@ -13859,7 +13859,7 @@
 			(uuid "a7e2c2b3-6372-45cc-a567-386234fed6ae")
 		)
 		(instances
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR02")
 					(unit 1)

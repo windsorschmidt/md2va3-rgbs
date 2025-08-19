@@ -331,7 +331,7 @@
 			)
 		)
 		(path "/5e7461f8-e430-4a67-907c-f40648371df6")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -533,7 +533,7 @@
 			)
 		)
 		(path "/fe4f14a0-8be4-488e-bd2c-032850c9fb91")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -708,7 +708,7 @@
 			)
 		)
 		(path "/de0fe559-ed33-4fad-ada1-d7fcd953fdb9")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -865,7 +865,7 @@
 			)
 		)
 		(path "/91469eda-1d13-4e2c-a5f7-0cee9fd67d10")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -1.4 0.3)
@@ -1122,7 +1122,7 @@
 			)
 		)
 		(path "/57ebc67d-f22d-43d4-8ad0-c46e442f6097")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -1336,7 +1336,7 @@
 			)
 		)
 		(path "/4b23d49d-ef5a-4644-b026-16dfa724e7af")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.26 4.26)
@@ -1769,7 +1769,7 @@
 			)
 		)
 		(path "/1f52c28a-d1f9-429b-af63-ef354109857b")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(clearance 0.22)
 		(attr smd)
 		(fp_line
@@ -2214,7 +2214,7 @@
 			)
 		)
 		(path "/b9833fe3-716f-497b-8260-e807dd7dce26")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -2506,7 +2506,7 @@
 			)
 		)
 		(path "/3609acaf-527d-4295-8188-761e5a17e240")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -1.4 0.3)
@@ -2763,7 +2763,7 @@
 			)
 		)
 		(path "/85c4ebdb-2e91-4fa3-a170-db6fdaa37f15")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -2926,7 +2926,7 @@
 			)
 		)
 		(path "/894ff837-cdbc-4f29-bc1b-0c6c86e28267")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -3089,7 +3089,7 @@
 			)
 		)
 		(path "/bfc22d63-b78e-4c40-be4a-1a2f5e359d85")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -3291,7 +3291,7 @@
 			)
 		)
 		(path "/a260147e-8c69-45c4-9162-9fd9e5e4046f")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -3493,7 +3493,7 @@
 			)
 		)
 		(path "/78db2893-8068-467a-a8da-409950aed114")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -3668,7 +3668,7 @@
 			)
 		)
 		(path "/5cd2a4d7-3cef-4d0e-8c7e-759b678e6746")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.41 3.41)
@@ -4101,7 +4101,7 @@
 			)
 		)
 		(path "/2ec8d23d-ce2c-4450-889f-ca550cfc10fe")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -4264,7 +4264,7 @@
 			)
 		)
 		(path "/206978f6-9410-4fa1-9bf6-f9ebf6c96842")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -4427,7 +4427,7 @@
 			)
 		)
 		(path "/7f6b1967-47f1-4fb7-a664-c13758a967ad")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4641,7 +4641,7 @@
 			)
 		)
 		(path "/2b874a22-43cb-40d2-a9ce-17bf78472afb")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -4798,7 +4798,7 @@
 			)
 		)
 		(path "/2b0e0759-0794-45dc-b4cd-49ca10e964c8")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -5000,7 +5000,7 @@
 			)
 		)
 		(path "/261add14-0b28-4758-91f3-fe2ed4c8b808")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -5202,7 +5202,7 @@
 			)
 		)
 		(path "/26866f56-ca7a-4b2d-b46f-7890701de543")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -5377,7 +5377,7 @@
 			)
 		)
 		(path "/79e8f455-fbfc-4936-ac1a-54fb877645c8")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -5606,7 +5606,7 @@
 			)
 		)
 		(path "/fcc270b9-19e3-4b0d-8d1e-4a4cdafda481")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -5769,7 +5769,7 @@
 			)
 		)
 		(path "/e5dccbd8-e122-436e-8f59-818042781040")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -5932,7 +5932,7 @@
 			)
 		)
 		(path "/b8a2920d-8328-4dd5-8b36-19fcd6464fbe")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -6134,7 +6134,7 @@
 			)
 		)
 		(path "/7be8ff3c-15fe-4a59-af1d-1e25c8ca7590")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -6336,7 +6336,7 @@
 			)
 		)
 		(path "/0c10c8fa-1fb0-4539-bd1b-75d403723fcb")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -6550,7 +6550,7 @@
 			)
 		)
 		(path "/92dbd6da-b8c4-4ab5-9a30-f3a2f5e0e579")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.6 1.5)
@@ -6791,7 +6791,7 @@
 			)
 		)
 		(path "/d8d93ac6-850b-49a5-a665-008734e441e4")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 2.56)
@@ -7083,7 +7083,7 @@
 			)
 		)
 		(path "/805ec54b-2fa6-4209-9ade-793f920658f9")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -7297,7 +7297,7 @@
 			)
 		)
 		(path "/cdbe0855-cd6c-4f13-a3ae-486d53281701")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.41 3.41)
@@ -7742,7 +7742,7 @@
 			)
 		)
 		(path "/8b50cfe1-82dc-4d91-a4df-c58c65e3ad00")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -19.8 6.93)
@@ -8371,7 +8371,7 @@
 			)
 		)
 		(path "/9feb7223-8ae2-436f-936b-4484125a61de")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.5 1.68)
@@ -8639,7 +8639,7 @@
 			)
 		)
 		(path "/9de4f8c1-b144-4f10-bedd-00a6234d953f")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.5 1.68)
@@ -8907,7 +8907,7 @@
 			)
 		)
 		(path "/7f4a49b7-acd0-439f-8995-6f2b644b650d")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.7 -3.7)
@@ -9235,7 +9235,7 @@
 			)
 		)
 		(path "/396a0e5b-5a50-4e16-a975-570f3906b827")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -9437,7 +9437,7 @@
 			)
 		)
 		(path "/f2d20b11-d959-4c5d-b40d-8f88e9e61c6b")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -9651,7 +9651,7 @@
 			)
 		)
 		(path "/dacd88a4-a5b1-4f00-8959-659d70838382")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.41 3.41)
@@ -10096,7 +10096,7 @@
 			)
 		)
 		(path "/af8777ce-690e-4bed-8df6-152885f39cd4")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.5 -1.68)
@@ -10364,7 +10364,7 @@
 			)
 		)
 		(path "/25fe82a5-704c-4f03-a048-c9c6b18eb83b")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.5 1.68)
@@ -10632,7 +10632,7 @@
 			)
 		)
 		(path "/b87d3a23-cef4-4bfc-979f-a7926a4a21bc")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.41 3.41)
@@ -11065,7 +11065,7 @@
 			)
 		)
 		(path "/b8567d63-d468-4ed7-8732-8577bf357216")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 0.63 -1.27)
@@ -11230,7 +11230,7 @@
 			)
 		)
 		(path "/02b6fd83-1b6d-4fdb-ac55-a4961973f7d8")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -11448,7 +11448,7 @@
 			)
 		)
 		(path "/986161dc-1d2b-40af-a568-51a412fb7747")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -11653,7 +11653,7 @@
 			)
 		)
 		(path "/e24d7658-19a7-4371-b226-aadcc4d81ba7")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -11871,7 +11871,7 @@
 			)
 		)
 		(path "/ad19117d-b0a5-448f-95f0-c4ed735a389e")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.5 -1.68)
@@ -12143,7 +12143,7 @@
 			)
 		)
 		(path "/2ee3a3b4-8372-40d3-a7e7-2f69f84b1820")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -12361,7 +12361,7 @@
 			)
 		)
 		(path "/8f13bb80-d8c5-4aaa-a412-340f50662d45")
-		(sheetfile "md2va3-amp.kicad_sch")
+		(sheetfile "md2va3-rgbs.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)

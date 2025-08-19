@@ -2151,7 +2151,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C9")
 					(unit 1)
@@ -2225,7 +2225,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR023")
 					(unit 1)
@@ -2762,7 +2762,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C15")
 					(unit 1)
@@ -2904,7 +2904,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "R4")
 					(unit 1)
@@ -3383,7 +3383,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR016")
 					(unit 1)
@@ -3469,7 +3469,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C19")
 					(unit 1)
@@ -3543,7 +3543,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C11")
 					(unit 1)
@@ -3616,7 +3616,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR020")
 					(unit 1)
@@ -3923,7 +3923,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "#PWR022")
 					(unit 1)
@@ -4178,7 +4178,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C18")
 					(unit 1)
@@ -4252,7 +4252,7 @@
 					(unit 1)
 				)
 			)
-			(project "md2va3-amp"
+			(project "md2va3-rgbs"
 				(path "/8c002e75-7240-496e-a414-3970ee055ede"
 					(reference "C6")
 					(unit 1)
