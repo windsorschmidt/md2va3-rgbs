@@ -14,7 +14,11 @@ for the Genesis 2 VA3.
 - RGBS output on DE-15 (VGA style) connector
 - Audio output on 3.5mm phono jack
 
-| [[render_top.png?raw=true]] | [[render_bottom.png?raw=true]] |
+[[md2va3-rgbs.png?raw=true]]
+
+* Status
+
+Revision 2 PCB tested working.
 
 * References
 
